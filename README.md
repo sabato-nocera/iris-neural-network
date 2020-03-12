@@ -19,14 +19,10 @@ Attributes informations:
       
       -- Iris Virginica
 
-# Accuracy
+# Neural network evaluation
 
 The neural network reaches:
 
-   1. test accuracy:
-   
-      -- 0.9777777791023254
+   1. Test accuracy: 98%
 
-   2. test loss:
-   
-      -- 0.3281496869193183
+   2. Test loss: 0.33
