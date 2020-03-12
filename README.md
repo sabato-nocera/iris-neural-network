@@ -18,6 +18,6 @@ Attributes informations:
 
 # Accuracy
 
-Test accuracy:  0.9777777791023254
+Test accuracy:       0.9777777791023254
 
-Test loss       0.3281496869193183
+Test loss:           0.3281496869193183
