@@ -25,6 +25,6 @@ Attributes informations:
 
 The neural network reaches:
 
-   1. Test accuracy: 98%
+   • test accuracy: 98%
 
-   2. Test loss: 0.33
+   • test loss: 0.33
