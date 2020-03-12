@@ -18,6 +18,7 @@ Attributes informations:
 
 # Accuracy
 
-Test accuracy:       0.9777777791023254
+The neural network reaches:
+test accuracy:       0.9777777791023254
 
-Test loss:           0.3281496869193183
+test loss:           0.3281496869193183
