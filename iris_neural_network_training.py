@@ -114,20 +114,3 @@ elif (class_predicted==2):
     iris_type = "Iris Virginica"
     
 print("Class predicted:", iris_type)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
